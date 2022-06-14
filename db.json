@@ -1,46 +1,18 @@
 {
 "employee": [
-				{
-					"id": 2,
-					"first_name": "Jacob",
-					"last_name": "Khan",
-					"email": "dentst221@gmail.csom",
-					"phone": "+12115176900",
-					"fax": "+1891111111110",
-					"address": "sjhjjj",
-					"nid": "1245319599",
-					"profile_image": "https://pixinvent.com/demo/vuexy-bootstrap-laravel-admin-template/demo-1/images/profile/user-uploads/user-13.jpg",
-					"status": 1,
-					"zip_code": "35004",
-					"city_name": "MOODY",
-					"address": "Demo Address",
-					"job_title": "Software Engineer",
-					"department": "Frontend",
-					"supervisor": "jayad Khan",
-					"employee_id": "MT002",
-					"profile_com_status": 1,
-				},
-				{
-					"id": 3,
-					"first_name": "Jhon",
-					"last_name": "Smith",
-					"email": "dentst221@gmail.csom",
-					"phone": "+12115176900",
-					"fax": "+1891111111110",
-					"address": "sjhjjj",
-					"nid": "1245319599",
-					"profile_image": "https://pixinvent.com/demo/vuexy-bootstrap-laravel-admin-template/demo-1/images/profile/user-uploads/user-02.jpg",
-					"status": 1,
-					"zip_code": "35004",
-					"city_name": "MOODY",
-					"address": "Demo Address",
-					"job_title": "Software Engineer",
-					"department": "Frontend",
-					"supervisor": "jayad Khan",
-					"employee_id": "MT002",
-					"profile_com_status": 1,
-				}
-			],
+{
+id: 1,
+title: "Post 1"
+},
+{
+id: 2,
+title: "Post 2"
+},
+{
+id: 3,
+title: "Post 3"
+}
+]
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
