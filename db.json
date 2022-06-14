@@ -39,7 +39,7 @@
 "supervisor": "jayad Khan",
 "employee_id": "MT002",
 "profile_com_status": 1,
-},
+}
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
